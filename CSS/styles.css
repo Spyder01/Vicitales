@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
-@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Outline&display=swap');
 
 html,
 body {
@@ -58,7 +58,7 @@ iframe {
 
 .mess {
     text-align: center;
-    font-family: 'Londrina Outline', cursive;
+    font-family: 'Bungee Outline', cursive;
     color: black;
     align-content: center;
 
