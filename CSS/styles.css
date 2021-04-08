@@ -119,6 +119,13 @@ a.btn-basic {
 
 }
 
+.genre hr {
+    border-top: 2px solid #b4b4b4;
+    width: 95%;
+    margin-top: .3rem;
+    margin-bottom: 1rem;
+}
+
 .fa-facebook {
     color: #3b5998;
 }
@@ -191,9 +198,9 @@ a.btn-basic {
         padding: 1.2rem;
     }
 
-
-
-
+    .genre {
+        font-size: 25px;
+    }
 
     display-4 {
         font-size: 200%;
