@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 @import url('https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap');
-
 html,
 body {
     height: 100%;
@@ -18,7 +17,6 @@ body {
 .navbar-nav li {
     padding-right: 40px;
     padding-left: 40px;
-
 }
 
 .nav-link {
@@ -30,23 +28,19 @@ body {
     color: #d5d5d5;
 }
 
-
 #logo {
     height: 60px;
     width: 90px;
 }
 
-
 .carousel-inner img {
     height: 100%;
-
     width: 100%;
 }
 
 .fun {
     color: black;
     width: 100%;
-
 }
 
 .mess {
@@ -54,7 +48,6 @@ body {
     font-family: 'Happy Monkey', cursive;
     color: black;
     align-content: center;
-
 }
 
 .jumbotron {
@@ -80,7 +73,6 @@ a.btn-basic {
     width: 30%;
     background-color: #7ee8fa;
     background-image: linear-gradient(315deg, #7ee8fa 0%, #80ff72 74%);
-
     color: white;
 }
 
@@ -109,7 +101,6 @@ a.btn-basic {
 .social a {
     font-size: 4.5em;
     padding: 3rem;
-
 }
 
 .genre hr {
@@ -142,7 +133,9 @@ a.btn-basic {
     color: #d5d5d5;
 }
 
+
 /*---Media Queries --*/
+
 
 /*@media (max-width: 1990px) {
     .carousel-inner img {
@@ -166,39 +159,30 @@ a.btn-basic {
         font-size: 4em;
         padding: 2rem;
     }
-
     .carousel-inner img {
         height: 98%;
-
         width: 100%;
     }
-
 }
 
 @media (max-width: 768px) {
     .welcome {
         font-size: 200%;
     }
-
     .carousel-inner img {
         height: 97%;
-
         width: 100%;
     }
-
     .social a {
         font-size: 2.5em;
         padding: 1.2rem;
     }
-
     .genre {
         font-size: 25px;
     }
-
     display-4 {
         font-size: 200%;
     }
-
 }
 
 @media (max-width: 576px) {
@@ -206,26 +190,20 @@ a.btn-basic {
         font-size: 2em;
         padding: .7rem;
     }
-
-
     display-4 {
         font-size: 160%;
     }
-
     .wel {
         padding-right: 30px;
     }
-
     .welcome {
         font-size: 200%;
     }
-
-
-
 }
 
 
 /*---Firefox Bug Fix --*/
+
 .carousel-item {
     transition: -webkit-transform 0.5s ease;
     transition: transform 0.5s ease;
@@ -234,7 +212,9 @@ a.btn-basic {
     backface-visibility: visible;
 }
 
+
 /*--- Fixed Background Image --*/
+
 figure {
     position: relative;
     width: 100%;
@@ -266,13 +246,12 @@ figure {
     will-change: transform;
 }
 
+
 /*--- Bootstrap Padding Fix --*/
+
 [class*="col-"] {
     padding: 1rem;
 }
-
-
-
 
 
 /*
