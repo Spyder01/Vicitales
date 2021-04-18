@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Abel&family=Kanit&display=swap');
 
 
 .about-wrapper {
@@ -21,12 +23,24 @@
 .intro {
     padding-top: 0px;
     padding-bottom: 75px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Abel', sans-serif;
+    font-family: 'Kanit', sans-serif;
     font-weight: 400;
     line-height: 1.6725;
     height: 100vh;
-    font-size: 100%;
+    font-size: 105%;
 
+}
+
+
+.marginnn {
+    margin-top: 15px;
+}
+
+
+
+footer {
+    margin-top: 25px;
 }
 
 
